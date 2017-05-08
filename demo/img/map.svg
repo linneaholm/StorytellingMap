@@ -561,10 +561,10 @@
 </g>
 <g id="points" class="st7">
 	<circle id="Use_vs_Misuse" class="st10" cx="630" cy="663.6" r="5.8"/>
-	<circle id="Shoe" class="st10" cx="415.7" cy="839.4" r="5.8"/>
-	<circle id="Sole" class="st10" cx="578" cy="816" r="5.8"/>
-	<circle id="Interaction_1_" class="st10" cx="781.4" cy="741.9" r="5.8"/>
-	<circle id="The_Idea" class="st10" cx="1035.6" cy="553.2" r="5.8"/>
-	<circle id="Prototyping_1_" class="st10" cx="1169.5" cy="930.5" r="5.8"/>
+	<circle id="Shoes_And_Soles" class="st10" cx="415.7" cy="839.4" r="5.8"/>
+	<circle id="Interaction" class="st10" cx="578" cy="816" r="5.8"/>
+	<circle id="The_Idea" class="st10" cx="781.4" cy="741.9" r="5.8"/>
+	<circle id="Prototyping_An_Experience" class="st10" cx="1035.6" cy="553.2" r="5.8"/>
+	<circle id="Final_Thoughts" class="st10" cx="1169.5" cy="930.5" r="5.8"/>
 </g>
 </svg>
